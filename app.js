@@ -33,4 +33,3 @@ form.addEventListener("submit", (e) => {
             getLocation.innerHTML = "Show Weather"
         })
 });
-
